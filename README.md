@@ -12,7 +12,7 @@ Supporting the Horiseon company to refactoring to be more optimal:
 
 ## Website layout
 
-![Horiseon website] (/assets/images/Website.png)
+![Horiseon website](/assets/images/Website.png)
 
 ## Webiste link
 
